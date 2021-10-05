@@ -21,6 +21,40 @@ For more information about FFF, please read the whitepaper:
 >2.Fedora 27 / 25
 
 
+```
+sudo apt-get update
+sudo apt-get install -y build-essential libtool autotools-dev automake pkg-config libssl-dev git python python-pip
+sudo apt-get install -y libdb5.3-dev libdb5.3++-dev
+sudo pip install pathlib2
+
+```
+
+#### Clone FFF_Core
+
+```
+https://github.com/fff-source/FFF_Protocol_Core.git
+```
+#### Prepare to download  V8
+You can use the title of pre-built and Google V8 JavaScript engine binary file download and Linux - V8. Tar expansion.
+
+
+```
+cd FFF_core
+set FFF_HOME=$(pwd)
+mkdir v8build
+cd v8build
+```
+
+
+
+
+
+
+
+
+
+
+
 ## Public resources
 
  
