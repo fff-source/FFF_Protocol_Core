@@ -3,18 +3,40 @@
 
 
 ### What is FFF?
-FFF  is a decentralized blockchain based on ***IPFS/RIPPLE***, which integrates lua virtual machine-based smart contracts. It is also a software platform designed to help coordinate voluntary free market operations amongst a set of social actors.
+ 
 
-Replicas of the state machine are kept consistent using the Result Delegated Pows distributed consensus protocol.
+FFF as a new generation of the underlying chain technology, applying power block chain of innovation and fall to the ground, will help the industry standard.
 
-FFF is making efforts to build up a high-performance decentralized enterprise blockchain platform to develop business blockchain applications, to eliminate cognitive fear of enterprises facing blockchain technology or corresponding applications, and to make the blockchain visualized and configurable.
+FFF consensus mechanism: the application of a new work-proof mechanism, network contribution proof mechanism, refers to the contribution ability of servers, PC and other devices to improve FFF network performance, provide distributed applications to run safely on FFF network, data transmission, storage and computing in the network and other data processing services. As the next generation of underlying public chain technology, FFF Network greatly reduces the loss of energy, computing, storage and other resources.
 
-For more information about FFF, please read the whitepaper:
+
+
+#### 1.Its core code is implemented by C++ (including P2P network and consensus mechanism) to ensure data performance and cross-platform, achieve high TPS, and realize a distributed cloud service platform with low cost, high expansion, low latency, privacy security, big data and artificial intelligence friendliness.
+
+#### 2.Through simple API calls, data up-link and data management are realized, which completely solves the problems of data islands, giant monopoly, privacy disclosure and high cost of traditional cloud storage services.
+
+
+
+#### 3.integrates the virtual machine intelligence based on LUA contracts open operating system, for developers to use block chain technology greatly reduces the cost of technology, for WEB3.0, Metaverse, communications technology, cloud computing, cloud storage, big data, artificial intelligence, Internet of things, no equipment technology development provides a solid underlying technology guarantee.
+
+
+
+#### 4.Support the rapid deployment of "alliance chain", protect privacy and data security while sharing data according to demand, separate the data itself from the value of use, and break the problem of data islands in the process of data circulation. This feature makes the circulation of big data both controlled and open, and makes the data truly belong to individuals and enterprises themselves.
+
+
+
+#### 5.FFF itself is not a single block chain technology, but has a specific structure of technical system, such as compatibility IPFS/RIPPLE technology. As the beginning of blockchain 3.0 technology, FFF is a distributed computing power system, distributed storage system and distributed operating system based entirely on blockchain, supporting applications (DAPPS) to run on blockchain, and a supercomputer with self-deep learning based entirely on blockchain.
+
+
+
+#### For more information about FFF, please read the whitepaper:
 
 
 [FFF White Paper ](https://fff-development.gitbook.io/a-white-paper-fff/fff)  
  
-## Supported Operating Systems  
+#### install  Full  Node 
+ 
+### Supported Operating Systems  
 
 >1.Ubuntu 18.04 / 20.10
 
